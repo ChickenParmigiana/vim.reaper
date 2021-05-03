@@ -16,8 +16,8 @@
 
 
 " Set leader to space bar
-let mapleader = " "
-let maplocalleader = " "
+let mapleader = ","
+let maplocalleader = ","
 
 " Window Navigation
 " Navigate to left window.
