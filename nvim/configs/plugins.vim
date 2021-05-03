@@ -42,12 +42,6 @@ Plug 'terryma/vim-multiple-cursors'
 "" Indent guides
 Plug 'Yggdroot/indentLine'
 
-" COC
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
-" Smart completion (to work with CoC)
-"Plug 'zxqfl/tabnine-vim'
-
 " Custom start page
 Plug 'mhinz/vim-startify'
 
@@ -100,10 +94,6 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() } }
 
 " vim-hexcolor
 Plug 'etdev/vim-hexcolor'
-
-" codi interactive scratchpad
-" Temporary repo, may be deprecated
-Plug 'ChristianChiarulli/codi.vim'
 
 " Easy tables in vim
 Plug 'dhruvasagar/vim-table-mode'
