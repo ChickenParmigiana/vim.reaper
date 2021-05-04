@@ -26,7 +26,7 @@ Plug 'tpope/vim-rhubarb'
 Plug 'scrooloose/nerdcommenter'
 
 " Code Snippets Engine
-" Plug 'SirVer/ultisnips'
+Plug 'SirVer/ultisnips'
 
 " Snippets for ultisnips
 Plug 'honza/vim-snippets'
@@ -105,7 +105,7 @@ Plug 'wfxr/minimap.vim'
 " Easymodion
 Plug 'easymotion/vim-easymotion'
 
-" Plug 'vimwiki/vimwiki'
+Plug 'vimwiki/vimwiki'
 
 
 call plug#end()
