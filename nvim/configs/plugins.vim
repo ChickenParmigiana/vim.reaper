@@ -17,6 +17,9 @@ endif
 
 call plug#begin(system('echo -n "${XDG_CONFIG_HOME:-$HOME/.config}/nvim/plugged"'))
 
+Plug 'jreybert/vimagit'
+Plug 'ap/vim-css-color'
+
 " Git wrapper
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
